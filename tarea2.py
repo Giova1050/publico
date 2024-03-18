@@ -1,0 +1,1 @@
+# Hola python, eres mas facil que java pero tiene su complicacion en cieeto modo
